@@ -6,5 +6,6 @@ Data from the paper ["Generalists and Specialists: Using Community Embeddings to
 
 Computed community scores from paper.  Columns are:
 * `community`
+* `community_score`
 * `n`, number of users used in calculation of community score (i.e. users with >= 3 communities, >= 10 total actions)
 * `total_users`, actual total number of users who engaged with community
