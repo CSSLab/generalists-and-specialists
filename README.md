@@ -1,4 +1,4 @@
-# generalists-and-specialists-data
+# generalists-and-specialists
 
 Data from the paper ["Generalists and Specialists: Using Community Embeddings to Quantify Activity Diversity in Online Platforms"](http://www.cs.toronto.edu/~ashton/pubs/actdiv-www2019.pdf) by Isaac Waller and Ashton Anderson.
 
